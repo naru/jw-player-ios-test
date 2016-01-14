@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    private var player: JWPlayerController! 
+    private var player: JWPlayerController!
 
     override func viewDidLoad() {
         super.viewDidLoad()
