@@ -1,0 +1,10 @@
+PODS:
+  - JWPlayer-SDK (2.0.32)
+
+DEPENDENCIES:
+  - JWPlayer-SDK (= 2.0.32)
+
+SPEC CHECKSUMS:
+  JWPlayer-SDK: adc03403517ca9d561b6b28afdbefdc911cddd5f
+
+COCOAPODS: 0.39.0
